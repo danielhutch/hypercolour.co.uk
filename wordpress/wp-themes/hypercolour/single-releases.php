@@ -17,7 +17,7 @@
 				<h5>Formats:</h5><p> <?php the_field('release_format'); ?></p>
 				<h5>Release Date:</h5><p> <?php the_field('release_date'); ?></p>
 				<div id="buy-button">
-					<a href="<?php the_field('buy_beatport'); ?>">Buy at Beatport &rarr;</a>
+					<a href="<?php the_field('buy_beatport'); ?>">Buy this release &rarr;</a>
 				</div>
 
 			</div>

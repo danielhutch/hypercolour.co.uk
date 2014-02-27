@@ -11,7 +11,7 @@
 		</a>
 	</div>
 	-->
-	<a href="releases/midnight-sequence-ep/">
+	<a href="releases/popularity/">
 		<section id="main-promo" data-type="background" data-speed="10" class="pages">     
 		</section>
 	</a>
@@ -34,7 +34,7 @@
 			<div class="tile-wrap">
 				<div class="tile">
 					<a href='releases/'>
-						<img src="wp-content/themes/recordlabel/images/home-sub-promo-one.jpg" alt="" />
+						<img src="http://www.hypercolour.co.uk/wp-content/themes/hypercolour/images/home-sub-promo-one.jpg" alt="" />
 						<div class="tile-text">	
 						<h3>Releases</h3>
 						</div>
@@ -44,7 +44,7 @@
 			<div class="tile-wrap">
 				<div class="tile">
 					<a href='artists/'>
-						<img src="wp-content/themes/recordlabel/images/home-sub-promo-two.jpg" alt="" />
+						<img src="http://www.hypercolour.co.uk/wp-content/themes/hypercolour/images/home-sub-promo-two.jpg" alt="" />
 						<div class="tile-text">	
 						<h3>Artists</h3>
 						</div>
@@ -54,7 +54,7 @@
 			<div class="tile-wrap">
 				<div class="tile">
 					<a href='podcasts/'>
-						<img src="wp-content/themes/recordlabel/images/home-sub-promo-three.jpg" alt="" />
+						<img src="http://www.hypercolour.co.uk/wp-content/themes/hypercolour/images/home-sub-promo-three.jpg" alt="" />
 						<div class="tile-text">	
 						<h3>Podcasts</h3>
 						</div>
