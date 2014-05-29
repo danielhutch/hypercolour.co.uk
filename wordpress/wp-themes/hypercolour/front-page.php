@@ -11,7 +11,7 @@
 		</a>
 	</div>
 	-->
-	<a href="releases/popularity/">
+	<a href="http://ridmik.hypercolour.co.uk/">
 		<section id="main-promo" data-type="background" data-speed="10" class="pages">     
 		</section>
 	</a>
